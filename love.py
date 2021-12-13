@@ -68,7 +68,7 @@ def jalan(z):
 
 logo = """ 
 
-\33[38;1mHASNAIN BALOCH
+\33[38;1mAbdul HANAN 
 
 \33[38;1mP̳A̳K̳ ̳H̳A̳C̳K̳E̳R̳̳ 
 
@@ -130,13 +130,13 @@ print  """
 
 \033[0;39m~~~~~~~~~~~~~~~~~~~~~~~~~~~"""
 
-print("\033[0;92mUsername/Password: 112233")
+print("\033[0;92mUsername/Password:khan786")
 
 print("\033[0;39m~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
-CorrectUsername = "112233"
+CorrectUsername = "khan786"
 
-CorrectPassword = "112233"
+CorrectPassword = "khan786"
 
 loop = 'true'
 
